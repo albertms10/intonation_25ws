@@ -1,0 +1,5 @@
+0, 60 2 2 2 1 1 1 1 2 2 2 2;
+1, ais1 h1 h1 c2 c2 b1 b1 b1 ces2 b1 ces2;
+2, eis1 fis1 e1 e1 e1 f1 f1 g1 ges1 ges1 ges1;
+3, cis1 dis1 h a c1 d1 f1 es1 es1 des1 es1;
+4, ais dis gis a a d d es es ges ces;
