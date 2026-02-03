@@ -37,3 +37,13 @@ Ziel dieser Arbeit ist es, fünf verschiedene Intonationsmöglichkeiten für den
 3. rein (bzw. so rein wie möglich),
 4. eine hybride Lösung sowie eine weitere Stimmung nach einem historischen oder gemischten Prinzip.
 5. mitteltönig.
+
+## Tonnetz
+
+![Animated Tonnetz](docs/animated-tonnetz.gif)
+
+[![Tonnetz](docs/tonnetz.png)](https://de.wikipedia.org/wiki/Eulersches_Tonnetz)
+
+![Tonnetz - Quinten](docs/tonnetz-quinten.png)
+
+![Tonnetz - Modulation](docs/tonnetz-modulation.png)
