@@ -42,7 +42,7 @@ Hier geht es um eine Modulation von cis-Moll (+10) nach ces-Dur (-7), also insge
 
 Zudem gelingt es Reger, die Modulation mit nur 9 Akkorden zusammenzufassen, inklusive der Ankunft in der neuen Tonart.
 
-![Tonnetz - Modulation](docs/tonnetz-modulation.png)
+![Tonnetz - Modulation](docs/tonnetz-modulation-quinten.png)
 
 Die Modulation nutzt die Schnelligkeit, mit der neapolitanische Sextenakkorde im Quintenzirkel bewegt werden können. In diesem Beispiel setzt Reger von den 9 Akkorden der Modulation drei neapolitanische Sextenakkorde ein: ais → h (-5 Quinten), a → b (-5 Quinten), es → ces (-4 Quinten). Diese Akkorde übernehmen somit 14 der insgesamt 17 absteigenden Quinten.
 
