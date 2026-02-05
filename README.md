@@ -36,7 +36,7 @@ Die Tonnetz kann uns helfen, diesen Modulationsprozess grafisch darzustellen. Au
 
 ![Animated Tonnetz](docs/animated-tonnetz.gif)
 
-Hier geht es um eine Modulation von cis-Moll (+10) nach ces-Dur (-7), also insgesamt 17 absteigende Quinten. Max Reger wählt diese sehr entfernten Tonarten bewusst, um Enharmonien zu vermeiden. Obwohl er anderthalb Runden im Quintenzirkel zurücklegt, bleibt der Prozess zentriert genug, um klar hörbar zu sein.
+Hier geht es um eine Modulation von ais-Moll (+10) nach ces-Dur (-7), also insgesamt 17 absteigende Quinten. Max Reger wählt diese sehr entfernten Tonarten bewusst, um Enharmonien zu vermeiden. Obwohl er anderthalb Runden im Quintenzirkel zurücklegt, bleibt der Prozess zentriert genug, um klar hörbar zu sein.
 
 ![Tonnetz - Quinten](docs/tonnetz-quinten.png)
 
