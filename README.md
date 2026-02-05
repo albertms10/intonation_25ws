@@ -28,22 +28,29 @@ Dieses Projekt beschäftigt sich mit der Intonation eines vierstimmigen, stark m
 >
 > ![Modulationsprozess](docs/modulation.png)
 
-Der Abschnitt ist besonders geeignet für eine Intonationsanalyse, da die Harmonik überwiegend akkordisch ist und viele enharmonische Umdeutungen enthält. Dadurch entstehen große Unterschiede zwischen verschiedenen Stimmungssystemen, vor allem in Bezug auf Terzen, Quinten und die Wahrnehmung von Spannung und Auflösung.
+## Tonnetz
+
+[![Tonnetz](docs/tonnetz.png)](https://de.wikipedia.org/wiki/Eulersches_Tonnetz)
+
+Die Tonnetz kann uns helfen, diesen Modulationsprozess grafisch darzustellen. Auf der Tonnetz-Karte lassen sich die Beziehungen zwischen den Akkorden und Tonarten leicht erkennen, sodass die Bewegung durch den Quintenzirkel und die Verwendung der neapolitanischen Sextenakkorde anschaulich sichtbar wird.
+
+![Animated Tonnetz](docs/animated-tonnetz.gif)
+
+Hier geht es um eine Modulation von cis-Moll (+10) nach ces-Dur (-7), also insgesamt 17 absteigende Quinten. Max Reger wählt diese sehr entfernten Tonarten bewusst, um Enharmonien zu vermeiden. Obwohl er anderthalb Runden im Quintenzirkel zurücklegt, bleibt der Prozess zentriert genug, um klar hörbar zu sein.
+
+![Tonnetz - Quinten](docs/tonnetz-quinten.png)
+
+Zudem gelingt es Reger, die Modulation mit nur 9 Akkorden zusammenzufassen, inklusive der Ankunft in der neuen Tonart.
+
+![Tonnetz - Modulation](docs/tonnetz-modulation.png)
+
+Die Modulation nutzt die Schnelligkeit, mit der neapolitanische Sextenakkorde im Quintenzirkel bewegt werden können. In diesem Beispiel setzt Reger von den 9 Akkorden der Modulation drei neapolitanische Sextenakkorde ein: ais → h (-5 Quinten), a → b (-5 Quinten), es → ces (-4 Quinten). Diese Akkorde übernehmen somit 14 der insgesamt 17 absteigenden Quinten.
 
 Ziel dieser Arbeit ist es, fünf verschiedene Intonationsmöglichkeiten für denselben harmonischen Verlauf zu vergleichen:
 
 1. gleichstufig temperiert,
 2. pythagoreisch,
-3. rein (bzw. so rein wie möglich),
-4. eine hybride Lösung sowie eine weitere Stimmung nach einem historischen oder gemischten Prinzip.
+3. rein,
+4. rein mit zwei Bezugspunkten,
 5. mitteltönig.
-
-## Tonnetz
-
-![Animated Tonnetz](docs/animated-tonnetz.gif)
-
-[![Tonnetz](docs/tonnetz.png)](https://de.wikipedia.org/wiki/Eulersches_Tonnetz)
-
-![Tonnetz - Quinten](docs/tonnetz-quinten.png)
-
-![Tonnetz - Modulation](docs/tonnetz-modulation.png)
+6. (Supplement) rein mit temperierter Sopranstimme.
