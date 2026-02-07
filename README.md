@@ -183,7 +183,7 @@ Die grafische Analyse der Cent-Abweichungen der Sopranstimme verdeutlicht die la
   "themeVariables": {
     "xyChart": {
       "plotColorPalette":
-        "#1f77b4, #2ca02c, #7f7f7f, #ffbf00, #d62728"
+        "#2ca02c, #ffbf00, #1f77b4, #d62728, #7f7f7f"
     }
   }
 }}%%
